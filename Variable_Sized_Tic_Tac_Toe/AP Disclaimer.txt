@@ -1,0 +1,10 @@
+Inclusion of the C++ classes defined for use in the Advanced Placement Computer Science 
+courses does not constitute endorsement of the other material in this CD-ROM by the 
+College Board, Educational Testing Service, or the AP Computer Science Development Committee. 
+The versions of the C++ classes defined for use in the AP Computer Science courses included in 
+this CD-ROM were accurate as of May 20, 1999. Revisions to the classes may have been made 
+since that time.
+
+AP and Advanced Placement Program are registered trademarks of the College
+Entrance Examination Board, which was not involved in the production of,
+and does not endorse, this product.
